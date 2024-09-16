@@ -1,6 +1,6 @@
 # Hey there!  I'm Ayoub
 
-🎯 **Software Engineer | Cloud Enthusiast | Product Innovator**
+**Software Engineer | Cloud Enthusiast | Product Innovator**
 
 I specialize in building **high-scale, cloud-based applications** that bridge customer needs with cutting-edge tech. My focus is on scalable solutions that drive impact.
 
@@ -8,7 +8,7 @@ I specialize in building **high-scale, cloud-based applications** that bridge cu
 
 ## About Me
 
-💡 With expertise in **Golang**, **React**, **AWS**, and **GCP**, I craft systems that perform under pressure. Passionate about solving complex problems and enhancing product value.
+With expertise in **Golang**, **React**, **AWS**, and **GCP**, I craft systems that perform under pressure. Passionate about solving complex problems and enhancing product value.
 
 ---
 
@@ -24,8 +24,8 @@ I specialize in building **high-scale, cloud-based applications** that bridge cu
 
 ## Currently Learning
 
-- 🚀 Diving into **Serverless Architectures** and **Golang**.
-- 📚 Exploring **Vector Database** and **Multiplayer Game Hosting**.
+- Diving into **Serverless Architectures** and **Golang**.
+- Exploring **Vector Database** and **Multiplayer Game Hosting**.
 
 ---
 
